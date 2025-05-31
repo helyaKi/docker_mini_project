@@ -1,0 +1,13 @@
+{
+  "name": "mini-docker-project",
+  "version": "1.0.0",
+  "description": "Mini Docker projesi - Node.js Express + MySQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
