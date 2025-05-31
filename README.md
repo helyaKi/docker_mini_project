@@ -18,7 +18,4 @@ Bu proje, Node.js Express tabanlı basit bir web uygulamasını ve MySQL veritab
 git clone https://github.com/kullaniciadi/mini-docker-project.git
 cd mini-docker-project
 
-
-```bash
 docker-compose up --build
-
