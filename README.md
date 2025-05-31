@@ -15,7 +15,7 @@ Bu proje, Node.js Express tabanlı basit bir web uygulamasını ve MySQL veritab
 3. Tarayıcınızda http://localhost:3000 adresine gidin.
 
 ```bash
-git clone https://github.com/kullaniciadi/mini-docker-project.git
+git clone https://github.com/kullanici_adi/mini-docker-project.git
 cd mini-docker-project
 
 docker-compose up --build
